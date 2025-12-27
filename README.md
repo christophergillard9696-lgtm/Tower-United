@@ -5,6 +5,26 @@
 
 <div style="display: flex; align-items: flex-start;"> <img src="https://github.com/user-attachments/assets/483456ee-6c3e-492e-add3-3cda274fada8" alt="Tower United Illustration" style="width: 450px; height: auto; margin-right: 20px;"/> <div style="max-width: 500px;">
 
+
+
+
+
+<div style="display: flex; align-items: center;">
+  <img src="https://github.com/user-attachments/assets/483456ee-6c3e-492e-add3-3cda274fada8" alt="Tower United Illustration" style="width: 600px; height: auto; margin-right: 30px;"/>
+  <div style="max-width: 500px;">
+    <h2 style="margin: 0;">Tower United</h2>
+    <p style="margin-top: 10px;">
+      This is a community management project using social research methods to analyze participant sentiment, player habits, and spending patterns. Leverages interview recordings, Google Forms, and web content to gather actionable insights.
+    </p>
+  </div>
+</div>
+
+
+
+
+
+
+
 🔩 Technologies:
 
 🔭 Features:
