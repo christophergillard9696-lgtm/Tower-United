@@ -10,7 +10,8 @@
 - Player Lifecycle & Retention Metrics
 - Interactive Dashboard 
 - Statistical Modelling  
-- Topic Clustering          
+- Topic Clustering
+- Review Sentimate Timeline         
 
 
           
