@@ -9,21 +9,21 @@
           
 # 🔩 Technologies:
 
-• Google Forms
-• Google Sheets
-• Python/VADER/Beautifulsoup/Pandas/R
-• SQL
-• Power Bi 
-• DAX
+- • Google Forms
+- • Google Sheets
+- • Python/VADER/Beautifulsoup/Pandas/R
+- • SQL
+- • Power Bi 
+- • DAX
 
 
 # 🔭 Features:
 
-• Automated Data Gathering, Updating and Processing
-• Interactive Dashboard 
-• Player Lifecycle & Retention Metrics
-• Topic Clustering
-• Statistical Modelling 
+- • Automated Data Gathering, Updating and Processing
+- • Interactive Dashboard 
+- • Player Lifecycle & Retention Metrics
+- • Topic Clustering
+- • Statistical Modelling 
 
 
 # ♟️ The Process:
