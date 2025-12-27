@@ -47,7 +47,7 @@ https://github.com/user-attachments/assets/06733f19-3ac5-4c23-8994-91f02f2a2efe
 
 ![Data Relations](https://github.com/user-attachments/assets/466799cd-6417-4131-a4f8-039a411b22eb)
 
-
+**** Come up with a better way to showcase DAX/SQL
 
 
 
