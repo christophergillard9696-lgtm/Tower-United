@@ -35,7 +35,7 @@ Oddly when pulling API data it started the pull from June of 1970 and issued the
 --
 When setting up the data pipelines attempting to sutomate the run, I cant help but note that if anything were to be changed within the python script that cause more data to be pulled I would have to rework the end to end process to reflect this new data, meaning I would not be able to leave this running without issue, if Steam were to ever update the API tied to the reviews or introduce a new way of ranking reviews it would prevent the automation from functioning. 
 --
-I was Surprised to see that th particular API the Tower Unite developers use do not allow me to tap into the country where the review was posted from.
+I was Surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from.
 --
 
 # 🎬 Preview:
