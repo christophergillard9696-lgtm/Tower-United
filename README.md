@@ -25,7 +25,7 @@
 
 
 # ♟️ The Process:
---
+
 I wanted to create something that could automatically pull and process from my data scraping, so I developed a python script to pull from reviews left on steam, leveraged SQL to help deliver a cleaned up master set of data, connecting Power Bi to said data to have it automatically update results every morning feeding them through the statistical modeling within Power Bi.
 
 # 🗳️ Improovements and Difficulties:
