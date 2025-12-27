@@ -28,7 +28,7 @@
 
 I wanted to create something that could automatically pull and process from my data scraping, so I developed a python script to pull from reviews left on steam, leveraged SQL to help deliver a cleaned up master set of data, connecting Power Bi to said data to have it automatically update results every morning feeding them through the statistical modeling within Power Bi.
 
-# 🗳️ Improovements and Difficulties:
+# 🗳️ Lessons and Improvements:
 Oddly when pulling API data it started the pull from June of 1970 and issued the time stamps in seconds passed from that date, I had to run a simple DAX calculation inserting a new colum for the date format so I could display the reviews in an array.
 
 When setting up the data pipelines attempting to sutomate the run, I cant help but note that if anything were to be changed within the python script that cause more data to be pulled I would have to rework the end to end process to reflect this new data, meaning I would not be able to leave this running without issue, if Steam were to ever update the API tied to the reviews or introduce a new way of ranking reviews it would prevent the automation from functioning. 
@@ -37,7 +37,7 @@ I was Surprised to see that the particular API the Tower Unite developers use do
 
 
 # 👁️‍🗨️ Insights:
-
+(What does your dashboard show you?)
 
 🎬 Preview:
 
