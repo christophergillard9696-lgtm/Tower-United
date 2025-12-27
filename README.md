@@ -49,18 +49,7 @@ https://github.com/user-attachments/assets/06733f19-3ac5-4c23-8994-91f02f2a2efe
 
 
 
-
-
-
-
-
-
-
-
-
-
-### Sample Data
-import requests
+[TUWEBSCRAPE.py](https://github.com/user-attachments/files/24355808/TUWEBSCRAPE.py)import requests
 import pandas as pd
 import time
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
@@ -481,3 +470,7 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+
+
