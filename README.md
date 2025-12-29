@@ -27,7 +27,7 @@
 
 # ♟️ The Process:
 
-I wanted to create something that could really unveil the community of Tower Unite, my plans are to eventually use this information to better inform my ethnographic piece based on the game community, by seeking out the wants, the needs, the folk lore, the habits and fears are what I'm motivated to find out. So to better understanding what people liked and did not like about the game was key to my research. Initially I brought people in from my field research to interview, google forms were produced and the Excel sheets were filled with their responses, eventually unioned and cleaned up with SQL, next was to scrape the reviews using python VADER to tap into the API for the data and then Beautifulsoup to draw out keyworks in the spectrum of reviews.
+I wanted to create something that could really unveil the habits and dislikes within the community of Tower Unite. Initially I brought people in from my field research to interview, google form questionaires were filled and funneled into an Excel master sheet, next was to scrape the Steam reviews, and social media sentimates using python VADER and Beautifulsoup to draw out keywords and repeated sentiments.
 
 # 👁️‍🗨️ Insights:
 -The Main Dashboard includes 84 participants, majority male to a 59/25 split.
