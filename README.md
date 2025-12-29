@@ -37,7 +37,7 @@ I wanted to create something that could really unveil the habits and dislikes wi
 - Preferred communication style in the participant base is voice chat
 - Although english speaking majority hold highest on social interactability- Germany, Japan, and Netherlands are tied as 3rd highest giving a census of real presence in the community
 - Taking a look across the timeline of API data we pulled we can see the longer people play, both on average and in sum, the more likely it is they will leave a positive review
--Additionally on the API data there are a few clusters of reviews we should look into, being January 2025, May 2025, and late December of 2025
+- Additionally on the API data there are a few clusters of reviews we should look into, being January 2025, May 2025, and late December of 2025
 
 # 🎬 Preview:
 <img width="1336" height="746" alt="Dash Still" src="https://github.com/user-attachments/assets/0cbbef14-3d7e-46ab-ac6e-c6dd7b377105" />
