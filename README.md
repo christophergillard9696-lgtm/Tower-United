@@ -30,12 +30,12 @@
 I wanted to create something that could really unveil the habits and dislikes within the community of Tower Unite. Initially I brought people in from my field research to interview, google form questionaires were filled and funneled into an Excel master sheet, next was to scrape the Steam reviews, and social media sentimates using python VADER and Beautifulsoup to draw out keywords and repeated sentiments.
 
 # 👁️‍🗨️ Insights:
--The Main Dashboard includes 84 participants, majority male to a 59/25 split.
--Noteworthy: "Other" was a category on the options for gender on google forms but no participant selected this option when filling in the questionaire
--Condos come in as the largest draw of both Favoured Feature and Majority Spend of ingame currency
--Participant base is primarily American, followed by other english speaking territories coming in 2nd and 3rd
--Preffered communication style in the participant base is voice chat
--Although english speaking majority hold highest on social interactability- Germany, Japan, and Netherlands are tied as 3rd highest giving a cencus of presece in community
+- The Main Dashboard includes 84 participants, majority male to a 59/25 split.
+- Noteworthy: "Other" was a category on the options for gender on google forms but no participant selected this option when filling in the questionaire
+- Condos come in as the largest draw of both Favoured Feature and Majority Spend of ingame currency
+- Participant base is primarily American, followed by other english speaking territories coming in 2nd and 3rd
+- Preffered communication style in the participant base is voice chat
+- Although english speaking majority hold highest on social interactability- Germany, Japan, and Netherlands are tied as 3rd highest giving a cencus of presece in community
 
 
 # 🎬 Preview:
