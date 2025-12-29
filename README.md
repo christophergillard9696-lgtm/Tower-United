@@ -11,7 +11,7 @@
 - Interactive Dashboard 
 - Statistical Modelling  
 - Topic Clustering
-- Review Sentimate Timeline         
+- Review Sentiment Timeline         
 
 
           
@@ -27,15 +27,15 @@
 
 # ♟️ The Process:
 
-I wanted to create something that could really unveil the habits and dislikes within the community of Tower Unite. Initially I brought people in from my field research to interview, google form questionaires were filled and funneled into an Excel master sheet, next was to scrape the Steam reviews, and social media sentimates using python VADER and Beautifulsoup to draw out keywords and repeated sentiments.
+I wanted to create something that could really unveil the habits and dislikes within the community of Tower Unite. Initially I brought people in from my field research to interview, google form questionnaires were filled and funneled into an Excel master sheet, next was to scrape the Steam reviews, and social media sentiments using python VADER and Beautifulsoup to draw out keywords and repeated sentiments.
 
 # 👁️‍🗨️ Insights:
 - The Main Dashboard includes 84 participants, majority male to a 59/25 split.
-- Noteworthy: "Other" was a category on the options for gender on google forms but no participant selected this option when filling in the questionaire
-- Condos come in as the largest draw of both Favoured Feature and Majority Spend of ingame currency
+- Noteworthy: "Other" was a category on the options for gender on google forms but no participant selected this option when filling in the questionnaire
+- Condos come in as the largest draw of both Favoured Feature and Majority Spend of in-game currency
 - Participant base is primarily American, followed by other english speaking territories coming in 2nd and 3rd
-- Preffered communication style in the participant base is voice chat
-- Although english speaking majority hold highest on social interactability- Germany, Japan, and Netherlands are tied as 3rd highest giving a cencus of presece in community
+- Preferred communication style in the participant base is voice chat
+- Although english speaking majority hold highest on social interactability- Germany, Japan, and Netherlands are tied as 3rd highest giving a census of real presence in the community
 
 
 # 🎬 Preview:
@@ -45,9 +45,9 @@ I wanted to create something that could really unveil the habits and dislikes wi
 
 
 # 🗳️ Lessons and Improvements:
-- Oddly when pulling API data it started the pull from June of 1970 and issued the time stamps in seconds passed from that date, I had to run a simple DAX calculation inserting a new colum so that I would have a day/month/year format so the array of review sentiments could actually be displayed.
+- Oddly when pulling API data it started the pull from June of 1970 and issued the time stamps in seconds passed from that date, I had to run a simple DAX calculation inserting a new column so that I would have a day/month/year format so the array of review sentiments could actually be displayed.
 
-- When setting up the data pipelines, attempting to automate the run, useless keywords would come in that were not covered by the joiner list I had pre-instated within my code, so this forced my hand on a weekly basis to manually update the list. Although I am in the habit in anticipating these stray words that will come through from time to time, I could train it on a catalog of helpful keywords to better the autonomy.
+- When setting up the data pipelines, attempting to automate the run, useless keywords would come in that were not covered by the joiner list I had pre-instated within my code, so this forced my hand on a weekly basis to manually update the list. Although I am in the habit of anticipating these, stray words still come through from time to time. I could invert the task, so that I only train it on a catalog of helpful keywords to better the autonomy but this may shake the quality of returned results.
 
-- I was Surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from, if there was a work around for this it'd be fantastic for the demographic data that could accompany my insights.
+- I was surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from, if there was a work around for this it'd be fantastic for the demographic data that could accompany my insights.
 
