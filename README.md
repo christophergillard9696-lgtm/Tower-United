@@ -27,30 +27,27 @@
 
 # ♟️ The Process:
 
-I wanted to create something that could automatically pull and process from my data scraping, so I developed a python script to pull from reviews left on steam, leveraged SQL to help deliver a cleaned up master set of data, connecting Power Bi to said data to have it automatically update results every morning feeding them through the statistical modeling within Power Bi.
-
-# 🗳️ Lessons and Improvements:
-Oddly when pulling API data it started the pull from June of 1970 and issued the time stamps in seconds passed from that date, I had to run a simple DAX calculation inserting a new colum for the date format so I could display the reviews in an array.
-
-When setting up the data pipelines attempting to sutomate the run, I cant help but note that if anything were to be changed within the python script that cause more data to be pulled I would have to rework the end to end process to reflect this new data, meaning I would not be able to leave this running without issue, if Steam were to ever update the API tied to the reviews or introduce a new way of ranking reviews it would prevent the automation from functioning. 
-
-I was Surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from.
-
+I wanted to create something that could really unveil the community of Tower Unite, my plans are to eventually use this information to better inform my ethnographic piece based on the game community, by seeking out the wants, the needs, the folk lore, the habits and fears are what I'm motivated to find out. So to better understanding what people liked and did not like about the game was key to my research. Initially I brought people in from my field research to interview, google forms were produced and the Excel sheets were filled with their responses, eventually unioned and cleaned up with SQL, next was to scrape the reviews using python VADER to tap into the API for the data and then Beautifulsoup to draw out keyworks in the spectrum of reviews.
 
 # 👁️‍🗨️ Insights:
-(What does your dashboard show you?)
+-The Main Dashboard includes 84 participants, majority male to a 59/25 split.
+-Noteworthy: "Other" was a category on the options for gender on google forms but no participant selected this option when filling in the questionaire
+-Condos come in as the largest draw of both Favoured Feature and Majority Spend of ingame currency
+-Participant base is primarily American, followed by other english speaking territories coming in 2nd and 3rd
+-Preffered communication style in the participant base is voice chat
+-Although english speaking majority hold highest on social interactability- Germany, Japan, and Netherlands are tied as 3rd highest giving a cencus of presece in community
 
-🎬 Preview:
 
-https://github.com/user-attachments/assets/5b6eb3cc-d602-4bd6-a72c-7509c0367f7a
-
-https://github.com/user-attachments/assets/f164a6f2-e807-4056-b643-3c1fcb694d6a
-
-https://github.com/user-attachments/assets/06733f19-3ac5-4c23-8994-91f02f2a2efe
+# 🎬 Preview:
+<img width="1336" height="746" alt="Dash Still" src="https://github.com/user-attachments/assets/0cbbef14-3d7e-46ab-ac6e-c6dd7b377105" />
 
 ![Data Relations](https://github.com/user-attachments/assets/466799cd-6417-4131-a4f8-039a411b22eb)
 
-**** Come up with a better way to showcase DAX/SQL
 
+# 🗳️ Lessons and Improvements:
+-Oddly when pulling API data it started the pull from June of 1970 and issued the time stamps in seconds passed from that date, I had to run a simple DAX calculation inserting a new colum so that I would have a day/month/year format so the array of review sentiments could actually be displayed.
 
+-When setting up the data pipelines, attempting to automate the run, useless keywords would come in that were not covered by the joiner list I had pre-instated within my code, so this forced my hand on a weekly basis to manually update the list. Although I am in the habit in anticipating these stray words that will come through from time to time, I could train it on a catalog of helpful keywords to better the autonomy.
+
+-I was Surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from, if there was a work around for this it'd be fantastic for the demographic data that could accompany my insights.
 
