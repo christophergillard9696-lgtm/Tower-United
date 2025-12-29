@@ -50,7 +50,7 @@ I wanted to create something that could really unveil the habits and dislikes wi
 # 🗳️ Lessons and Improvements:
 - Oddly when pulling API data it started the pull from June of 1970 and issued the time stamps in seconds passed from that date, I had to run a simple DAX calculation inserting a new column so that I would have a day/month/year format so the array of review sentiments could actually be displayed.
 
-- When setting up the data pipelines, attempting to automate the run, useless keywords would come in that were not covered by the joiner list I had pre-instated within my code, so this forced my hand on a weekly basis to manually update the list. Although I am in the habit of anticipating these, stray words still come through from time to time. I could invert the task, so that I only train it on a catalog of helpful keywords to better the autonomy but this may shake the quality of returned results.
+- When setting up the data pipelines, attempting to automate the run, useless keywords would still come in despite using a joiner word ban list library, requiring me to manually update the list. (I am seeking a potential fix)
 
 - I was surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from, if there was a work around for this it'd be fantastic for the demographic data that could accompany my insights.
 
