@@ -27,7 +27,7 @@
 
 # ♟️ The Process:
 
-I wanted to create something that could really unveil the habits and dislikes within the community of Tower Unite. Initially I brought people in from my field research to interview, google form questionnaires were filled and funneled into an Excel master sheet, next was to scrape the Steam reviews, and social media sentiments using python VADER and Beautifulsoup to draw out keywords and repeated sentiments.
+I wanted to create something that could really unveil the habits and dislikes within the community of Tower Unite. Initially I brought people in from my field research to interview, google form questionnaires were filled and funneled into an Excel master sheet, next was to scrape the Steam reviews, and social media sentiments using python VADER and Beautifulsoup to draw out the timing on when reviews were published, present keywords and repeated sentiments.
 
 # 👁️‍🗨️ Insights:
 - The Main Dashboard includes 84 participants, majority male to a 59/25 split.
