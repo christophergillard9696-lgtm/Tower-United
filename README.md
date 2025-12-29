@@ -52,5 +52,4 @@ I wanted to create something that could really unveil the habits and dislikes wi
 
 - When setting up the data pipelines, attempting to automate the run, useless keywords would still come in despite using a joiner word ban list library, requiring me to manually update the list. (I am seeking a potential fix)
 
-- I was surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from, if there was a work around for this it'd be fantastic for the demographic data that could accompany my insights.
-
+- I was surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from, if there was a work around for this it'd be fantastic for insights.
