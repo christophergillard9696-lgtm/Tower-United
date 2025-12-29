@@ -40,7 +40,7 @@ I wanted to create something that could really unveil the habits and dislikes wi
 - Additionally on the API data there are a few clusters of reviews we should look into, being January 2025, May 2025, and late December of 2025
 
 # 🎬 Preview:
-<img width="1336" height="746" alt="Dash Still" src="https://github.com/user-attachments/assets/0cbbef14-3d7e-46ab-ac6e-c6dd7b377105" />
+<img width="1432" height="801" alt="Dash Still" src="https://github.com/user-attachments/assets/ce2d7c57-02e0-4aa7-858d-7d5fcfba030c" />
 
 <img width="1326" height="745" alt="API Still" src="https://github.com/user-attachments/assets/05caf23c-1d37-46f2-95f1-9db8bcc15209" />
 
