@@ -39,7 +39,7 @@ I wanted to create something that could really unveil the habits and dislikes wi
 ![Data Relations](https://github.com/user-attachments/assets/466799cd-6417-4131-a4f8-039a411b22eb)
 
 # 👁️‍🗨️ Insights:
-- The Main Dashboard includes 84 participants, majority male to a 59/25 split
+- The Main Dashboard includes 84 participants, majority male to a ratio of 59/25
 - Noteworthy: "Other" was a category on the options for gender on google forms but no participant selected this option when filling in the questionnaire
 - Condos come in as the largest draw of both Favoured Feature and Majority Spend of in-game currency
 - Participant base is primarily American, followed by other english speaking territories coming in 2nd and 3rd
