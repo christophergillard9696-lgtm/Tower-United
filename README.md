@@ -54,7 +54,7 @@ I wanted to create something that could really unveil the habits and dislikes wi
 
 - I was surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from, if there was a work around for this it'd be fantastic for insights.
 
-- When setting up the keyword scraper (snippit below), useless keywords would still come in despite using a joiner word ban list library, requiring me to manually update the list. (I am seeking a potential fix)
+- When setting up the keyword & review scraper (pulling over 14,000 reviews, snippit below), useless keywords would still come in despite using a joiner word ban list library, requiring me to manually update the list. (I am seeking a potential fix)
 
 <img width="981" height="893" alt="Py Scraper Snippit" src="https://github.com/user-attachments/assets/dc1129e9-5259-49d0-bdaf-d1360d73fe89" />
 
