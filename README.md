@@ -34,7 +34,7 @@ I wanted to create something that could really unveil the habits and dislikes wi
 - Noteworthy: "Other" was a category on the options for gender on google forms but no participant selected this option when filling in the questionnaire
 - Condos come in as the largest draw of both Favoured Feature and Majority Spend of in-game currency
 - Participant base is primarily American, followed by other english speaking territories coming in 2nd and 3rd
-- Participants from Japan are majority female
+- Participants from regions with the lowest amount of responses hold a female majority
 - Preferred communication style in the participant base is voice chat
 - Although english speaking majority hold highest on social interactability- Germany, Japan, and Netherlands are tied as 3rd highest giving a census of real presence in the community
 - Taking a look across the timeline of API data we pulled we can see the longer people play, both on average and in sum, the more likely it is they will leave a positive review
