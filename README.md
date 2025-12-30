@@ -17,7 +17,7 @@
           
 # 🔩 Technologies:
 -  Google Forms
--  Google Sheets
+-  Google Sheets/Excel
 -  Python/VADER/Beautifulsoup/Pandas/R
 -  Power Bi 
 -  SQL
