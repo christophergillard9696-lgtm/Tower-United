@@ -36,6 +36,13 @@ I wanted to create something that could really unveil the habits and dislikes wi
 
 <img width="1326" height="745" alt="API Still" src="https://github.com/user-attachments/assets/05caf23c-1d37-46f2-95f1-9db8bcc15209" />
 
+https://github.com/user-attachments/assets/75df4a6c-f2ab-4ed2-a80c-92814cd57f81
+
+
+
+
+
+
 ![Data Relations](https://github.com/user-attachments/assets/466799cd-6417-4131-a4f8-039a411b22eb)
 
 # 👁️‍🗨️ Insights:
