@@ -61,7 +61,7 @@ https://github.com/user-attachments/assets/75df4a6c-f2ab-4ed2-a80c-92814cd57f81
 
 - I was surprised to see that the particular API the Tower Unite developers use does not allow me to tap into the country where the reviews were posted from, if there was a work around for this it'd be fantastic for insights.
 
-- When setting up the keyword & review scraper (pulling over 14,000 reviews, snippit below), useless keywords would still come in despite using a joiner word stop list library, requiring me to manually setup and maintain a custom stop list library. (I am seeking a potential fix)
+- When setting up the keyword & review scraper (pulling over 14,000 reviews, snippit below), useless keywords would still come in despite using a joiner word stop list library, requiring me to manually setup and maintain a custom stop list library. I am seeking a potential fix, as I dont want to miss anything potentially unforeseen & useful I am hesitant to set a white list of pre-designated key words...
 
 <img width="981" height="893" alt="Py Scraper Snippit" src="https://github.com/user-attachments/assets/dc1129e9-5259-49d0-bdaf-d1360d73fe89" />
 
