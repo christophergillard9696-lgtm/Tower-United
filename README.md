@@ -6,7 +6,7 @@
 - Player Lifecycle & Retention Metrics
 - Interactive Dashboard 
 - Statistical Modelling  
-- Player Demographic Matrix
+- Player Demographic Insights 
 - Review Sentiment Timeline         
 
 
