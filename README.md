@@ -6,7 +6,7 @@
 - Player Lifecycle & Retention Metrics
 - Interactive Dashboard 
 - Statistical Modelling  
-- Topic Clustering
+- Player Demographic Matrix
 - Review Sentiment Timeline         
 
 
@@ -31,6 +31,8 @@ I wanted to create something that could really unveil the habits and dislikes wi
 <img width="1432" height="801" alt="Dash Still" src="https://github.com/user-attachments/assets/ce2d7c57-02e0-4aa7-858d-7d5fcfba030c" />
 
 <img width="1326" height="745" alt="API Still" src="https://github.com/user-attachments/assets/05caf23c-1d37-46f2-95f1-9db8bcc15209" />
+
+![age vis](https://github.com/user-attachments/assets/d77ef28f-e740-4f2d-b115-a0f83792c2e1)
 
 https://github.com/user-attachments/assets/75df4a6c-f2ab-4ed2-a80c-92814cd57f81
 
